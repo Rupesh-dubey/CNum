@@ -21,7 +21,7 @@ They enable for:
 
 ## Broadcasting
 The term **broadcasting** refers to behaviour of tensors with different dimensions during arithmetic operations which lead to certain constraints, the smaller array is broadcast across the larger array so that they have compatible shapes. 
-![Image](/Images/Broadcast.png "Broadcasting")
+![Image](/Broadcast.png "Broadcasting")
 
 
 ## API Reference
